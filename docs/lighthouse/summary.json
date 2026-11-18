@@ -1,0 +1,112 @@
+[
+  {
+    "page": "city-desktop",
+    "perf": 100,
+    "a11y": 100,
+    "best": 96,
+    "seo": 92,
+    "LCP": "0.4 s",
+    "CLS": "0",
+    "TBT": "0 ms",
+    "observedLCPms": 298
+  },
+  {
+    "page": "city-mobile",
+    "perf": 99,
+    "a11y": 100,
+    "best": 96,
+    "seo": 92,
+    "LCP": "1.7 s",
+    "CLS": "0",
+    "TBT": "30 ms",
+    "observedLCPms": 340
+  },
+  {
+    "page": "contact-desktop",
+    "perf": 100,
+    "a11y": 100,
+    "best": 96,
+    "seo": 92,
+    "LCP": "0.4 s",
+    "CLS": "0",
+    "TBT": "0 ms",
+    "observedLCPms": 405
+  },
+  {
+    "page": "contact-mobile-applied-throttling",
+    "perf": 94,
+    "a11y": 100,
+    "best": 96,
+    "seo": 92,
+    "LCP": "2.4 s",
+    "CLS": "0",
+    "TBT": "100 ms",
+    "observedLCPms": 2388
+  },
+  {
+    "page": "contact-mobile",
+    "perf": 75,
+    "a11y": 100,
+    "best": 96,
+    "seo": 92,
+    "LCP": "7.6 s",
+    "CLS": "0",
+    "TBT": "50 ms",
+    "observedLCPms": 405
+  },
+  {
+    "page": "home-desktop",
+    "perf": 93,
+    "a11y": 100,
+    "best": 96,
+    "seo": 92,
+    "LCP": "1.7 s",
+    "CLS": "0",
+    "TBT": "0 ms",
+    "observedLCPms": 281
+  },
+  {
+    "page": "home-mobile-applied-throttling",
+    "perf": 87,
+    "a11y": 100,
+    "best": 96,
+    "seo": 92,
+    "LCP": "2.9 s",
+    "CLS": "0",
+    "TBT": "200 ms",
+    "observedLCPms": 2884
+  },
+  {
+    "page": "home-mobile",
+    "perf": 71,
+    "a11y": 100,
+    "best": 96,
+    "seo": 92,
+    "LCP": "9.1 s",
+    "CLS": "0",
+    "TBT": "50 ms",
+    "observedLCPms": 486
+  },
+  {
+    "page": "service-desktop",
+    "perf": 100,
+    "a11y": 100,
+    "best": 96,
+    "seo": 92,
+    "LCP": "0.5 s",
+    "CLS": "0",
+    "TBT": "0 ms",
+    "observedLCPms": 307
+  },
+  {
+    "page": "service-mobile",
+    "perf": 98,
+    "a11y": 100,
+    "best": 96,
+    "seo": 92,
+    "LCP": "1.9 s",
+    "CLS": "0",
+    "TBT": "20 ms",
+    "observedLCPms": 410
+  }
+]

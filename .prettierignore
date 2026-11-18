@@ -1,0 +1,8 @@
+.next
+node_modules
+pnpm-lock.yaml
+data/*.generated.ts
+public
+Img
+Logo
+media-masters

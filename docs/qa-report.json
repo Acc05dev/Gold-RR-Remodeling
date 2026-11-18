@@ -1,0 +1,454 @@
+{
+  "checked": "2026-11-18T11:57:52.226Z",
+  "pages": [
+    {
+      "path": "/",
+      "title": 55,
+      "desc": 152,
+      "h1": 1,
+      "jsonld": "WebSite, FAQPage, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1452
+    },
+    {
+      "path": "/es",
+      "title": 57,
+      "desc": 154,
+      "h1": 1,
+      "jsonld": "WebSite, FAQPage, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1522
+    },
+    {
+      "path": "/services",
+      "title": 56,
+      "desc": 150,
+      "h1": 1,
+      "jsonld": "BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 422
+    },
+    {
+      "path": "/es/services",
+      "title": 51,
+      "desc": 152,
+      "h1": 1,
+      "jsonld": "BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 447
+    },
+    {
+      "path": "/services/bathroom-remodeling",
+      "title": 56,
+      "desc": 141,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1266
+    },
+    {
+      "path": "/es/services/bathroom-remodeling",
+      "title": 58,
+      "desc": 138,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1354
+    },
+    {
+      "path": "/services/kitchen-remodeling",
+      "title": 55,
+      "desc": 146,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1193
+    },
+    {
+      "path": "/es/services/kitchen-remodeling",
+      "title": 60,
+      "desc": 132,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1229
+    },
+    {
+      "path": "/services/tile-installation",
+      "title": 54,
+      "desc": 142,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1226
+    },
+    {
+      "path": "/es/services/tile-installation",
+      "title": 59,
+      "desc": 145,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1297
+    },
+    {
+      "path": "/services/flooring-installation",
+      "title": 58,
+      "desc": 142,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1154
+    },
+    {
+      "path": "/es/services/flooring-installation",
+      "title": 57,
+      "desc": 131,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1202
+    },
+    {
+      "path": "/services/interior-exterior-painting",
+      "title": 54,
+      "desc": 149,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1179
+    },
+    {
+      "path": "/es/services/interior-exterior-painting",
+      "title": 53,
+      "desc": 135,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1272
+    },
+    {
+      "path": "/services/drywall-repair-texture",
+      "title": 50,
+      "desc": 143,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1182
+    },
+    {
+      "path": "/es/services/drywall-repair-texture",
+      "title": 57,
+      "desc": 146,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1240
+    },
+    {
+      "path": "/services/finish-carpentry",
+      "title": 49,
+      "desc": 132,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1155
+    },
+    {
+      "path": "/es/services/finish-carpentry",
+      "title": 48,
+      "desc": 133,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1222
+    },
+    {
+      "path": "/services/countertops",
+      "title": 49,
+      "desc": 133,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1156
+    },
+    {
+      "path": "/es/services/countertops",
+      "title": 49,
+      "desc": 124,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1223
+    },
+    {
+      "path": "/services/repairs-restoration",
+      "title": 52,
+      "desc": 142,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1200
+    },
+    {
+      "path": "/es/services/repairs-restoration",
+      "title": 53,
+      "desc": 128,
+      "h1": 1,
+      "jsonld": "Service, FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1247
+    },
+    {
+      "path": "/service-areas",
+      "title": 58,
+      "desc": 147,
+      "h1": 1,
+      "jsonld": "BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 522
+    },
+    {
+      "path": "/es/service-areas",
+      "title": 51,
+      "desc": 155,
+      "h1": 1,
+      "jsonld": "BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 568
+    },
+    {
+      "path": "/service-areas/vallejo-ca",
+      "title": 47,
+      "desc": 146,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 854
+    },
+    {
+      "path": "/es/service-areas/vallejo-ca",
+      "title": 53,
+      "desc": 148,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 942
+    },
+    {
+      "path": "/service-areas/benicia-ca",
+      "title": 47,
+      "desc": 144,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 816
+    },
+    {
+      "path": "/es/service-areas/benicia-ca",
+      "title": 53,
+      "desc": 136,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 880
+    },
+    {
+      "path": "/service-areas/american-canyon-ca",
+      "title": 55,
+      "desc": 150,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 834
+    },
+    {
+      "path": "/es/service-areas/american-canyon-ca",
+      "title": 46,
+      "desc": 138,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 902
+    },
+    {
+      "path": "/service-areas/fairfield-ca",
+      "title": 49,
+      "desc": 154,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 834
+    },
+    {
+      "path": "/es/service-areas/fairfield-ca",
+      "title": 55,
+      "desc": 133,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 901
+    },
+    {
+      "path": "/service-areas/suisun-city-ca",
+      "title": 51,
+      "desc": 151,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 853
+    },
+    {
+      "path": "/es/service-areas/suisun-city-ca",
+      "title": 57,
+      "desc": 144,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 930
+    },
+    {
+      "path": "/service-areas/vacaville-ca",
+      "title": 49,
+      "desc": 155,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 813
+    },
+    {
+      "path": "/es/service-areas/vacaville-ca",
+      "title": 55,
+      "desc": 135,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 901
+    },
+    {
+      "path": "/service-areas/napa-ca",
+      "title": 44,
+      "desc": 151,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 831
+    },
+    {
+      "path": "/es/service-areas/napa-ca",
+      "title": 50,
+      "desc": 145,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 916
+    },
+    {
+      "path": "/service-areas/sonoma-ca",
+      "title": 46,
+      "desc": 152,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 825
+    },
+    {
+      "path": "/es/service-areas/sonoma-ca",
+      "title": 52,
+      "desc": 133,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 911
+    },
+    {
+      "path": "/service-areas/petaluma-ca",
+      "title": 48,
+      "desc": 147,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 818
+    },
+    {
+      "path": "/es/service-areas/petaluma-ca",
+      "title": 54,
+      "desc": 150,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 911
+    },
+    {
+      "path": "/service-areas/santa-rosa-ca",
+      "title": 50,
+      "desc": 151,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 844
+    },
+    {
+      "path": "/es/service-areas/santa-rosa-ca",
+      "title": 56,
+      "desc": 136,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 925
+    },
+    {
+      "path": "/service-areas/rohnert-park-ca",
+      "title": 52,
+      "desc": 149,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 814
+    },
+    {
+      "path": "/es/service-areas/rohnert-park-ca",
+      "title": 58,
+      "desc": 140,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 911
+    },
+    {
+      "path": "/gallery",
+      "title": 57,
+      "desc": 138,
+      "h1": 1,
+      "jsonld": "BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 384
+    },
+    {
+      "path": "/es/gallery",
+      "title": 51,
+      "desc": 139,
+      "h1": 1,
+      "jsonld": "BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 403
+    },
+    {
+      "path": "/about",
+      "title": 50,
+      "desc": 142,
+      "h1": 1,
+      "jsonld": "BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 514
+    },
+    {
+      "path": "/es/about",
+      "title": 54,
+      "desc": 149,
+      "h1": 1,
+      "jsonld": "BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 508
+    },
+    {
+      "path": "/contact",
+      "title": 48,
+      "desc": 138,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 569
+    },
+    {
+      "path": "/es/contact",
+      "title": 53,
+      "desc": 142,
+      "h1": 1,
+      "jsonld": "FAQPage, BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 592
+    },
+    {
+      "path": "/privacy",
+      "title": 36,
+      "desc": 143,
+      "h1": 1,
+      "jsonld": "BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1054
+    },
+    {
+      "path": "/es/privacy",
+      "title": 44,
+      "desc": 153,
+      "h1": 1,
+      "jsonld": "BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 1117
+    },
+    {
+      "path": "/terms",
+      "title": 34,
+      "desc": 124,
+      "h1": 1,
+      "jsonld": "BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 844
+    },
+    {
+      "path": "/es/terms",
+      "title": 37,
+      "desc": 138,
+      "h1": 1,
+      "jsonld": "BreadcrumbList, HomeAndConstructionBusiness+GeneralContractor",
+      "words": 904
+    }
+  ],
+  "problems": []
+}

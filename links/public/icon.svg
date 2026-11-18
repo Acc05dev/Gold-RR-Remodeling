@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 0H416L512 96V512H0z" fill="#0E0E0E"/><g transform="translate(92 76) scale(.92)">
+  <defs>
+    <linearGradient id="s-bar" gradientUnits="userSpaceOnUse" x1="441" y1="348" x2="623" y2="364">
+      <stop offset="0" stop-color="#E3AB58"/><stop offset=".3" stop-color="#DA9E4C"/><stop offset=".62" stop-color="#CF9241"/><stop offset="1" stop-color="#CA8A30"/>
+    </linearGradient>
+  </defs>
+  <g id="house">
+    <path id="roof-outer" d="M26 368V135.4L130 31.4L252.8 154.2" fill="none" stroke="#BF9643" stroke-width="26" stroke-linejoin="miter" stroke-miterlimit="4"/>
+    <path id="roof-inner" d="M307 306H75V155.4L147.2 83.2" fill="none" stroke="#BF9643" stroke-width="26" stroke-linejoin="miter" stroke-miterlimit="4"/>
+    <path id="roof-slab" d="M180.2 50.7L199.5 31.4L321.8 153.7" fill="none" stroke="#BF9643" stroke-width="26" stroke-linejoin="miter" stroke-miterlimit="4"/>
+  </g>
+  <path id="gold-bar" d="M13 342H343V368H13z" fill="#BF9643"/>
+  <path id="letter-g" d="M151.5 275Q137.11 275 129.55 266.85Q122 258.7 122 243.47L122 243.47L122 177.53Q122 162.3 129.55 154.15Q137.11 146 151.5 146L151.5 146Q165.89 146 173.45 154.15Q181 162.3 181 177.53L181 177.53L181 188.28L162.29 188.28L162.29 176.28Q162.29 163.92 152.04 163.92L152.04 163.92Q141.79 163.92 141.79 176.28L141.79 176.28L141.79 244.9Q141.79 257.08 152.04 257.08L152.04 257.08Q162.29 257.08 162.29 244.9L162.29 244.9L162.29 220.35L152.4 220.35L152.4 202.44L181 202.44L181 243.47Q181 258.7 173.45 266.85Q165.89 275 151.5 275L151.5 275" fill="#FFFFFF" fill-rule="evenodd"/>
+</g></svg>

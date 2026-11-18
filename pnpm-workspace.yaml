@@ -1,0 +1,7 @@
+allowBuilds:
+  '@parcel/watcher': true
+  '@swc/core': true
+  sharp: true
+  # Only needed for `pnpm media`. Kept off so deploys do not download a 70 MB ffmpeg binary.
+  # To re-process media locally: `pnpm rebuild ffmpeg-static`, or have ffmpeg in your PATH.
+  ffmpeg-static: false

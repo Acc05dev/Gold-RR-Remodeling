@@ -1,0 +1,365 @@
+{
+  "meta": {
+    "homeTitle": "Bathroom & Kitchen Remodeling in Vallejo, CA | Gold R.R",
+    "homeDescription": "Licensed remodeling contractor in Vallejo, CA. Bathrooms, kitchens, tile, flooring, painting and drywall across Solano, Napa and Sonoma. Free estimates.",
+    "servicesTitle": "Remodeling Services in Vallejo, CA | Gold R.R Remodeling",
+    "servicesDescription": "Bathroom and kitchen remodeling, tile, flooring, painting, drywall, finish carpentry, countertops and repairs. Licensed in California. Free estimates.",
+    "areasTitle": "Service Areas: Solano, Napa & Sonoma | Gold R.R Remodeling",
+    "areasDescription": "Gold R.R Remodeling is based in Vallejo and works in Benicia, American Canyon, Fairfield, Vacaville, Napa, Sonoma, Petaluma, Santa Rosa and nearby.",
+    "galleryTitle": "Remodeling Project Gallery | Gold R.R Remodeling, Vallejo",
+    "galleryDescription": "Real bathroom, tile and flooring projects by Gold R.R Remodeling: before and after photos, work in progress and short videos from the job.",
+    "aboutTitle": "About Gold R.R Remodeling | Vallejo, CA Contractor",
+    "aboutDescription": "A Latino-owned remodeling crew in Vallejo, CA with more than 13 years of experience. Clean job sites and work explained in English or Spanish.",
+    "contactTitle": "Free Estimate | Gold R.R Remodeling, Vallejo, CA",
+    "contactDescription": "Request a free remodeling estimate in Vallejo and the North Bay. Call or text (707) 430-8295 or send the form with photos of your project.",
+    "privacyTitle": "Privacy Policy | Gold R.R Remodeling",
+    "privacyDescription": "How Gold R.R Remodeling collects and uses the information you send through this website, your California privacy rights and text message terms.",
+    "termsDescription": "Terms for using the Gold R.R Remodeling website, including how estimates work and California contractor license information.",
+    "termsTitle": "Terms of Use | Gold R.R Remodeling",
+    "notFoundTitle": "Page not found | Gold R.R Remodeling"
+  },
+  "common": {
+    "freeEstimate": "Free estimate",
+    "getEstimate": "Get a free estimate",
+    "call": "Call",
+    "callNumber": "Call (707) 430-8295",
+    "text": "Text",
+    "textUs": "Text us",
+    "email": "Email",
+    "estimate": "Estimate",
+    "license": "CA Lic. #1149164",
+    "licensed": "Licensed CA contractor",
+    "seHabla": "Se habla español",
+    "home": "Home",
+    "skip": "Skip to content",
+    "readOnGoogle": "Read it on Google",
+    "seeAll": "See all",
+    "before": "Before",
+    "after": "After",
+    "inProgress": "In progress",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause",
+    "of": "of"
+  },
+  "nav": {
+    "services": "Services",
+    "gallery": "Projects",
+    "areas": "Service areas",
+    "about": "About",
+    "contact": "Contact",
+    "menu": "Menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "switchTo": "Ver en español",
+    "main": "Main"
+  },
+  "topbar": {
+    "location": "Vallejo, CA 94591",
+    "estimates": "Free estimates",
+    "counties": "Solano, Napa and Sonoma counties"
+  },
+  "hero": {
+    "h1Lines": ["Bathroom", "& kitchen", "remodeling", "in Vallejo, CA"],
+    "tagline": "More than a service. An experience.",
+    "body": "Bathrooms, kitchens, tile and floors across the North Bay, built with the right materials and a job site kept clean every day.",
+    "videoLabel": "Recent bathroom remodels by Gold R.R Remodeling",
+    "chips": {
+      "years": "13+ years",
+      "licensed": "Licensed CA contractor #1149164",
+      "rating": "4.7 on Google",
+      "latino": "Latino-owned",
+      "spanish": "Se habla español"
+    },
+    "scroll": "Scroll",
+    "pause": "Pause background video",
+    "play": "Play background video"
+  },
+  "quick": {
+    "title": "Free estimate",
+    "lead": "Three fields. We call or text you back.",
+    "name": "Name",
+    "phone": "Phone",
+    "service": "What do you need?",
+    "choose": "Choose a service",
+    "other": "Something else",
+    "submit": "Request my estimate",
+    "sending": "Sending",
+    "sent": "Request sent. We will call or text you back.",
+    "consent": "By sending this form you agree that Gold R.R Remodeling may call or text you about your request. Message and data rates may apply. Reply STOP to opt out."
+  },
+  "about": {
+    "title": "Thirteen years, one way of working",
+    "statement": "For more than 13 years we have remodeled bathrooms, kitchens and floors the same way. The right materials for each job. A work area kept clean. A crew that shows up when it says it will.",
+    "points": [
+      "13+ years of experience",
+      "On time and reliable",
+      "Clean, detailed work",
+      "Commitment to quality",
+      "Personalized customer service",
+      "Free estimates"
+    ],
+    "caption": "Cuts are made outside, so the dust stays out of your house.",
+    "link": "About Gold R.R"
+  },
+  "services": {
+    "title": "What we build",
+    "lead": "Nine trades, one crew. Every photo here is from one of our own jobs.",
+    "details": "Service details",
+    "allServices": "All services",
+    "drag": "Scroll to move through the services",
+    "noPhotos": "Project photos coming soon"
+  },
+  "beforeAfter": {
+    "title": "Before and after",
+    "lead": "Same rooms, same doorways. Drag the gold line.",
+    "handle": "Before and after comparison. Use the left and right arrow keys to move the divider.",
+    "choose": "Choose a project"
+  },
+  "build": {
+    "title": "What goes in before the tile",
+    "lead": "One bathroom, first day to last. Most of this work ends up behind the walls, so we photograph it.",
+    "stageLabel": "Stage",
+    "stages": {
+      "before": {
+        "name": "Before",
+        "text": "The original bathroom. A tiled-in tub, a low window and a skylight worth keeping."
+      },
+      "demolition": {
+        "name": "Demolition",
+        "text": "Everything comes out, down to the studs and the subfloor. This is when we see what the old tile was hiding."
+      },
+      "substrate": {
+        "name": "Backer board and floor prep",
+        "text": "Cement backer board on the shower walls and an uncoupling membrane on the floor, so the tile sits on something that will not swell or move."
+      },
+      "waterproofing": {
+        "name": "Waterproofing",
+        "text": "Walls, niches and the shower pan get a continuous waterproof coat. No tile goes on until this layer is complete."
+      },
+      "tile": {
+        "name": "Tile",
+        "text": "Laid out so the cuts land where you will not notice them, set with spacers and leveling clips, then grouted."
+      },
+      "finished": {
+        "name": "Finished",
+        "text": "Glass, vanity, fixtures and paint. A walk-in shower with a pebble floor where the tub used to be."
+      }
+    }
+  },
+  "process": {
+    "title": "How a job runs",
+    "lead": "Four steps, in this order, every time.",
+    "steps": [
+      {
+        "name": "Call or text",
+        "text": "Tell us what you have in mind. Photos by text help. We answer in English or Spanish."
+      },
+      {
+        "name": "Free on-site estimate",
+        "text": "We see the space, measure and talk through materials. You get the scope and the price in writing."
+      },
+      {
+        "name": "The build",
+        "text": "We protect the house, do the work in the right order and leave the job site clean every day."
+      },
+      {
+        "name": "Final walkthrough",
+        "text": "We walk the finished job with you and take care of anything on the list before we call it done."
+      }
+    ]
+  },
+  "stats": {
+    "title": "The short version",
+    "years": "years in the trade",
+    "rating": "average rating on Google",
+    "license": "California contractor license",
+    "estimate": "on-site estimates",
+    "free": "Free",
+    "verify": "Verify on cslb.ca.gov"
+  },
+  "gallery": {
+    "title": "Recent work",
+    "lead": "Every photo and video here is from our own jobs.",
+    "reelsTitle": "From the job",
+    "all": "All",
+    "bathroom": "Bathrooms",
+    "tile": "Tile",
+    "flooring": "Flooring",
+    "crew": "On site",
+    "stageAll": "Everything",
+    "stageAfter": "Finished",
+    "stageProgress": "In progress",
+    "stageBefore": "Before",
+    "viewAll": "See all projects",
+    "open": "Open photo",
+    "count": "{count} photos",
+    "empty": "No photos match these filters. Try another combination.",
+    "playVideo": "Play video: {title}"
+  },
+  "reviews": {
+    "title": "What clients say on Google",
+    "ratingLabel": "{rating} out of 5 on Google",
+    "reviewedOn": "Reviewed on Google",
+    "leave": "Leave us a review",
+    "read": "Read our reviews on Google"
+  },
+  "areas": {
+    "title": "Where we work",
+    "lead": "Based in Vallejo. We travel across Solano, Napa and Sonoma counties.",
+    "mapTitle": "Service area map",
+    "loadMap": "Open the interactive map",
+    "mapNote": "Distances are straight-line miles from Vallejo.",
+    "base": "Home base",
+    "miles": "{miles} mi",
+    "allAreas": "All service areas"
+  },
+  "faq": {
+    "title": "Questions we get asked"
+  },
+  "cta": {
+    "title": "Let's make your dream a reality.",
+    "sub": "Let's work together.",
+    "body": "Free estimates across Vallejo and the North Bay. Call, text, or send the form with a few photos."
+  },
+  "footer": {
+    "blurb": "Remodeling contractor based in Vallejo, California. Bathrooms, kitchens, tile, flooring, painting, drywall and finish carpentry.",
+    "contact": "Contact",
+    "services": "Services",
+    "areas": "Service areas",
+    "company": "Company",
+    "hours": "Hours",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "google": "Google Business Profile",
+    "rights": "All rights reserved.",
+    "serviceArea": "Service-area business. We come to you."
+  },
+  "form": {
+    "title": "Tell us about the project",
+    "name": "Full name",
+    "phone": "Phone",
+    "email": "Email",
+    "city": "City",
+    "cityPlaceholder": "Vallejo, Benicia, Napa…",
+    "property": "Type of property",
+    "propertyOptions": {
+      "house": "House",
+      "condo": "Condo or townhome",
+      "apartment": "Apartment",
+      "commercial": "Commercial",
+      "other": "Other"
+    },
+    "services": "What do you need?",
+    "servicesHint": "Choose all that apply.",
+    "description": "Describe the project",
+    "descriptionPlaceholder": "Rooms, rough sizes, what you want changed, anything you already bought.",
+    "photos": "Photos (optional)",
+    "photosHint": "Up to 5. They are resized on your device before sending.",
+    "addPhotos": "Add photos",
+    "remove": "Remove {name}",
+    "contactPref": "Best way to reach you",
+    "prefCall": "Call",
+    "prefText": "Text",
+    "prefEmail": "Email",
+    "language": "Preferred language",
+    "english": "English",
+    "spanish": "Español",
+    "optional": "optional",
+    "submit": "Send my request",
+    "sending": "Sending your request",
+    "successTitle": "Request sent",
+    "success": "Thank you. We will get back to you by {method}, usually the same or next business day.",
+    "another": "Send another request",
+    "consent": "By sending this form you agree that Gold R.R Remodeling may contact you by phone, text message or email about your request. Consent is not a condition of purchase. Message frequency varies. Message and data rates may apply. Reply STOP to opt out or HELP for help. See our Privacy Policy.",
+    "errors": {
+      "name": "Enter your name.",
+      "phone": "Enter a phone number with area code.",
+      "email": "Enter a valid email address, or leave it empty.",
+      "service": "Choose at least one service.",
+      "tooManyPhotos": "You can attach up to 5 photos.",
+      "rate": "Too many requests from this connection. Please call or text us at (707) 430-8295.",
+      "server": "The form could not be sent. Please call or text us at (707) 430-8295.",
+      "fallback": "Online sending is not set up yet. Your mail app will open with the request ready to send."
+    }
+  },
+  "servicePage": {
+    "included": "What is included",
+    "timeline": "Timing",
+    "faq": "Questions about {service}",
+    "work": "Our {service} work",
+    "noPhotosTitle": "Photos of this service are on the way",
+    "noPhotosBody": "We only show our own jobs. Ask us for examples by text and we will send what we have.",
+    "areas": "Where we do this work",
+    "areasBody": "{service} in Vallejo and across Solano, Napa and Sonoma counties:",
+    "other": "Other services",
+    "textAbout": "Text us about this"
+  },
+  "areaPage": {
+    "homes": "Homes in {city}",
+    "neighborhoods": "Neighborhoods we travel to",
+    "popular": "Work that fits {city} homes",
+    "faq": "Questions from {city}",
+    "nearby": "Nearby cities",
+    "county": "{county} County"
+  },
+  "servicesIndex": {
+    "h1": "Remodeling services in Vallejo, CA",
+    "lead": "One licensed crew for the whole job, so the tile setter, the painter and the carpenter are never waiting on each other."
+  },
+  "areasIndex": {
+    "h1": "Service areas in Solano, Napa and Sonoma counties",
+    "lead": "We are based in Vallejo and come to you. Pick your city to see how we work there."
+  },
+  "galleryPage": {
+    "h1": "Project gallery",
+    "lead": "Bathrooms, tile and floors by Gold R.R Remodeling. Filter by type of work, or by stage if you want to see what goes on behind the finish."
+  },
+  "aboutPage": {
+    "h1": "About Gold R.R Remodeling",
+    "lead": "A Latino-owned remodeling crew based in Vallejo, California.",
+    "storyTitle": "More than a service",
+    "story": [
+      "Gold R.R Remodeling has been remodeling homes for more than 13 years. Bathrooms and tile are where most of our jobs start, and from there the work runs to kitchens, floors, paint, drywall and finish carpentry.",
+      "We are a small crew, and that is on purpose. The people who give you the estimate are the people who do the work, in English or in Spanish.",
+      "Our tagline is \"More than a service, an experience.\" In practice that means three plain things: we show up when we said we would, we use the appropriate materials for each project, and we keep the work area clean."
+    ],
+    "valuesTitle": "What we hold ourselves to",
+    "values": [
+      { "name": "The right materials", "text": "Every project is completed using the appropriate materials for the job, including the layers you will never see once the tile is on." },
+      { "name": "A clean job site", "text": "Keeping the work area clean is one of our priorities. Floors are protected, cuts are made outside when we can, and we pick up every day." },
+      { "name": "Being on time", "text": "We tell you when we will be there and we are there. If something changes, you hear it from us first." },
+      { "name": "Service that is personal", "text": "You talk to the same people from the first call to the final walkthrough." }
+    ],
+    "faith": "We are grateful for every home we are trusted with. God bless.",
+    "credentialsTitle": "Credentials",
+    "credentials": {
+      "license": "California Contractor License #1149164",
+      "google": "4.7 average rating on Google",
+      "years": "13+ years of experience",
+      "languages": "English and Spanish",
+      "owned": "Latino-owned business",
+      "friendly": "LGBTQ+ friendly"
+    }
+  },
+  "contactPage": {
+    "h1": "Get a free estimate",
+    "lead": "Call or text for the fastest answer, or send the form and attach a few photos.",
+    "direct": "Reach us directly",
+    "callSub": "Calls answered from 8:00 AM",
+    "textSub": "Send photos of the space",
+    "emailSub": "For plans and documents",
+    "areaTitle": "Where we work",
+    "areaBody": "Vallejo, Benicia, American Canyon, Fairfield, Suisun City, Vacaville, Napa, Sonoma, Petaluma, Santa Rosa and Rohnert Park."
+  },
+  "notFound": {
+    "h1": "This page is not on the plans",
+    "body": "The link may be old, or the address may have a typo. Everything we build is one step from here.",
+    "home": "Go to the home page"
+  },
+  "legal": {
+    "updated": "Last updated {date}"
+  }
+}

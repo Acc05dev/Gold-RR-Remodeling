@@ -1,0 +1,365 @@
+{
+  "meta": {
+    "homeTitle": "Remodelación de baños y cocinas en Vallejo, CA | Gold R.R",
+    "homeDescription": "Contratista con licencia en Vallejo, CA. Baños, cocinas, azulejo, pisos, pintura y drywall en Solano, Napa y Sonoma. Presupuesto gratis. Hablamos español.",
+    "servicesTitle": "Servicios de remodelación en Vallejo, CA | Gold R.R",
+    "servicesDescription": "Remodelación de baños y cocinas, azulejo, pisos, pintura, drywall, carpintería de acabado, countertops y reparaciones. Con licencia. Presupuesto gratis.",
+    "areasTitle": "Zonas de servicio: Solano, Napa y Sonoma | Gold R.R",
+    "areasDescription": "Gold R.R Remodeling tiene su base en Vallejo y trabaja en Benicia, American Canyon, Fairfield, Vacaville, Napa, Sonoma, Petaluma, Santa Rosa y alrededores.",
+    "galleryTitle": "Galería de proyectos | Gold R.R Remodeling, Vallejo",
+    "galleryDescription": "Proyectos reales de baños, azulejo y pisos de Gold R.R Remodeling: fotos de antes y después, trabajo en proceso y videos cortos de la obra.",
+    "aboutTitle": "Sobre Gold R.R Remodeling | Contratista en Vallejo, CA",
+    "aboutDescription": "Un equipo latino de remodelación en Vallejo, CA con más de 13 años de experiencia. Obra limpia, los materiales correctos y todo explicado en español.",
+    "contactTitle": "Presupuesto gratis | Gold R.R Remodeling, Vallejo, CA",
+    "contactDescription": "Pida su presupuesto gratis de remodelación en Vallejo y el North Bay. Llame o mande mensaje al (707) 430-8295 o envíe el formulario con fotos.",
+    "privacyTitle": "Política de privacidad | Gold R.R Remodeling",
+    "privacyDescription": "Cómo Gold R.R Remodeling usa la información que usted envía por este sitio, sus derechos de privacidad en California y los términos de mensajes de texto.",
+    "termsDescription": "Términos de uso del sitio de Gold R.R Remodeling, incluido cómo funcionan los presupuestos y la información de la licencia de contratista.",
+    "termsTitle": "Términos de uso | Gold R.R Remodeling",
+    "notFoundTitle": "Página no encontrada | Gold R.R Remodeling"
+  },
+  "common": {
+    "freeEstimate": "Presupuesto gratis",
+    "getEstimate": "Pedir presupuesto gratis",
+    "call": "Llamar",
+    "callNumber": "Llamar al (707) 430-8295",
+    "text": "Mensaje",
+    "textUs": "Mandar mensaje",
+    "email": "Correo",
+    "estimate": "Presupuesto",
+    "license": "Lic. CA #1149164",
+    "licensed": "Contratista con licencia de CA",
+    "seHabla": "Hablamos español",
+    "home": "Inicio",
+    "skip": "Ir al contenido",
+    "readOnGoogle": "Leerla en Google",
+    "seeAll": "Ver todo",
+    "before": "Antes",
+    "after": "Después",
+    "inProgress": "En proceso",
+    "close": "Cerrar",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "play": "Reproducir",
+    "pause": "Pausar",
+    "of": "de"
+  },
+  "nav": {
+    "services": "Servicios",
+    "gallery": "Proyectos",
+    "areas": "Zonas",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "menu": "Menú",
+    "closeMenu": "Cerrar menú",
+    "language": "Idioma",
+    "switchTo": "View in English",
+    "main": "Principal"
+  },
+  "topbar": {
+    "location": "Vallejo, CA 94591",
+    "estimates": "Presupuestos gratis",
+    "counties": "Condados de Solano, Napa y Sonoma"
+  },
+  "hero": {
+    "h1Lines": ["Remodelación", "de baños", "y cocinas", "en Vallejo, CA"],
+    "tagline": "Más que un servicio. Una experiencia.",
+    "body": "Baños, cocinas, azulejo y pisos en todo el North Bay, con los materiales correctos y la obra limpia todos los días.",
+    "videoLabel": "Remodelaciones de baño recientes de Gold R.R Remodeling",
+    "chips": {
+      "years": "Más de 13 años",
+      "licensed": "Contratista con licencia de CA #1149164",
+      "rating": "4.7 en Google",
+      "latino": "Negocio latino",
+      "spanish": "Hablamos español"
+    },
+    "scroll": "Bajar",
+    "pause": "Pausar el video de fondo",
+    "play": "Reproducir el video de fondo"
+  },
+  "quick": {
+    "title": "Presupuesto gratis",
+    "lead": "Tres datos. Le llamamos o le mandamos mensaje.",
+    "name": "Nombre",
+    "phone": "Teléfono",
+    "service": "¿Qué necesita?",
+    "choose": "Elija un servicio",
+    "other": "Otra cosa",
+    "submit": "Pedir mi presupuesto",
+    "sending": "Enviando",
+    "sent": "Solicitud enviada. Le llamamos o le mandamos mensaje.",
+    "consent": "Al enviar este formulario usted acepta que Gold R.R Remodeling le llame o le mande mensajes sobre su solicitud. Pueden aplicar tarifas de mensajes y datos. Responda STOP para cancelar."
+  },
+  "about": {
+    "title": "Trece años, una sola forma de trabajar",
+    "statement": "Llevamos más de 13 años remodelando baños, cocinas y pisos de la misma manera. Los materiales correctos para cada trabajo. El área de trabajo limpia. Un equipo que llega cuando dijo que iba a llegar.",
+    "points": [
+      "Más de 13 años de experiencia",
+      "Puntuales y confiables",
+      "Trabajo limpio y detallado",
+      "Compromiso con la calidad",
+      "Atención personalizada",
+      "Presupuestos gratis"
+    ],
+    "caption": "Los cortes se hacen afuera para que el polvo no entre a su casa.",
+    "link": "Sobre Gold R.R"
+  },
+  "services": {
+    "title": "Lo que construimos",
+    "lead": "Nueve oficios, un solo equipo. Todas las fotos son de nuestros propios trabajos.",
+    "details": "Ver el servicio",
+    "allServices": "Todos los servicios",
+    "drag": "Baje para recorrer los servicios",
+    "noPhotos": "Fotos de proyectos muy pronto"
+  },
+  "beforeAfter": {
+    "title": "Antes y después",
+    "lead": "Los mismos cuartos, las mismas puertas. Arrastre la línea dorada.",
+    "handle": "Comparación de antes y después. Use las flechas izquierda y derecha para mover la división.",
+    "choose": "Elija un proyecto"
+  },
+  "build": {
+    "title": "Lo que va antes del azulejo",
+    "lead": "Un baño, del primer día al último. Casi todo este trabajo queda detrás de los muros, por eso lo fotografiamos.",
+    "stageLabel": "Etapa",
+    "stages": {
+      "before": {
+        "name": "Antes",
+        "text": "El baño original. Una tina forrada de azulejo, una ventana baja y un tragaluz que valía la pena conservar."
+      },
+      "demolition": {
+        "name": "Demolición",
+        "text": "Sale todo, hasta la estructura y el subpiso. Aquí es donde vemos lo que escondía el azulejo viejo."
+      },
+      "substrate": {
+        "name": "Tablero de cemento y piso",
+        "text": "Tablero de cemento en los muros de la regadera y membrana en el piso, para que el azulejo quede sobre algo que no se hincha ni se mueve."
+      },
+      "waterproofing": {
+        "name": "Impermeabilización",
+        "text": "Muros, nichos y base de la regadera llevan una capa continua de impermeabilizante. No se pone azulejo hasta que esta capa está completa."
+      },
+      "tile": {
+        "name": "Azulejo",
+        "text": "Se traza para que los cortes queden donde no se notan, se coloca con separadores y niveladores, y después se aplica la boquilla (grout)."
+      },
+      "finished": {
+        "name": "Terminado",
+        "text": "Vidrio, mueble, llaves y pintura. Una regadera abierta con piso de piedra donde antes estaba la tina."
+      }
+    }
+  },
+  "process": {
+    "title": "Cómo llevamos un trabajo",
+    "lead": "Cuatro pasos, en este orden, siempre.",
+    "steps": [
+      {
+        "name": "Llame o mande mensaje",
+        "text": "Cuéntenos lo que tiene en mente. Las fotos por mensaje ayudan. Le atendemos en español o en inglés."
+      },
+      {
+        "name": "Presupuesto gratis en su casa",
+        "text": "Vemos el espacio, medimos y platicamos de materiales. Usted recibe el alcance y el precio por escrito."
+      },
+      {
+        "name": "La obra",
+        "text": "Protegemos la casa, hacemos el trabajo en el orden correcto y dejamos limpio todos los días."
+      },
+      {
+        "name": "Recorrido final",
+        "text": "Recorremos el trabajo terminado con usted y resolvemos lo que quede en la lista antes de darlo por terminado."
+      }
+    ]
+  },
+  "stats": {
+    "title": "En corto",
+    "years": "años en el oficio",
+    "rating": "calificación promedio en Google",
+    "license": "licencia de contratista de California",
+    "estimate": "presupuestos en su casa",
+    "free": "Gratis",
+    "verify": "Verificar en cslb.ca.gov"
+  },
+  "gallery": {
+    "title": "Trabajo reciente",
+    "lead": "Todas las fotos y videos son de nuestros propios trabajos.",
+    "reelsTitle": "Desde la obra",
+    "all": "Todo",
+    "bathroom": "Baños",
+    "tile": "Azulejo",
+    "flooring": "Pisos",
+    "crew": "En la obra",
+    "stageAll": "Todo",
+    "stageAfter": "Terminado",
+    "stageProgress": "En proceso",
+    "stageBefore": "Antes",
+    "viewAll": "Ver todos los proyectos",
+    "open": "Abrir foto",
+    "count": "{count} fotos",
+    "empty": "Ninguna foto coincide con estos filtros. Pruebe otra combinación.",
+    "playVideo": "Reproducir video: {title}"
+  },
+  "reviews": {
+    "title": "Lo que dicen los clientes en Google",
+    "ratingLabel": "{rating} de 5 en Google",
+    "reviewedOn": "Reseña en Google",
+    "leave": "Déjenos una reseña",
+    "read": "Leer nuestras reseñas en Google"
+  },
+  "areas": {
+    "title": "Dónde trabajamos",
+    "lead": "Nuestra base está en Vallejo. Viajamos por los condados de Solano, Napa y Sonoma.",
+    "mapTitle": "Mapa de la zona de servicio",
+    "loadMap": "Abrir el mapa interactivo",
+    "mapNote": "Las distancias son millas en línea recta desde Vallejo.",
+    "base": "Nuestra base",
+    "miles": "{miles} mi",
+    "allAreas": "Todas las zonas"
+  },
+  "faq": {
+    "title": "Preguntas que nos hacen"
+  },
+  "cta": {
+    "title": "Hagamos realidad su sueño.",
+    "sub": "Trabajemos juntos.",
+    "body": "Presupuestos gratis en Vallejo y el North Bay. Llame, mande mensaje o envíe el formulario con unas fotos."
+  },
+  "footer": {
+    "blurb": "Contratista de remodelación con base en Vallejo, California. Baños, cocinas, azulejo, pisos, pintura, drywall y carpintería de acabado.",
+    "contact": "Contacto",
+    "services": "Servicios",
+    "areas": "Zonas de servicio",
+    "company": "Empresa",
+    "hours": "Horario",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "google": "Perfil de Google",
+    "rights": "Todos los derechos reservados.",
+    "serviceArea": "Negocio de servicio a domicilio. Nosotros vamos a su casa."
+  },
+  "form": {
+    "title": "Cuéntenos de su proyecto",
+    "name": "Nombre completo",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "city": "Ciudad",
+    "cityPlaceholder": "Vallejo, Benicia, Napa…",
+    "property": "Tipo de propiedad",
+    "propertyOptions": {
+      "house": "Casa",
+      "condo": "Condominio o townhome",
+      "apartment": "Apartamento",
+      "commercial": "Comercial",
+      "other": "Otro"
+    },
+    "services": "¿Qué necesita?",
+    "servicesHint": "Elija todo lo que aplique.",
+    "description": "Describa el proyecto",
+    "descriptionPlaceholder": "Cuartos, medidas aproximadas, qué quiere cambiar, lo que ya haya comprado.",
+    "photos": "Fotos (opcional)",
+    "photosHint": "Hasta 5. Se reducen en su dispositivo antes de enviarse.",
+    "addPhotos": "Agregar fotos",
+    "remove": "Quitar {name}",
+    "contactPref": "Mejor forma de contactarle",
+    "prefCall": "Llamada",
+    "prefText": "Mensaje",
+    "prefEmail": "Correo",
+    "language": "Idioma de preferencia",
+    "english": "English",
+    "spanish": "Español",
+    "optional": "opcional",
+    "submit": "Enviar mi solicitud",
+    "sending": "Enviando su solicitud",
+    "successTitle": "Solicitud enviada",
+    "success": "Gracias. Le contestamos por {method}, normalmente el mismo día hábil o el siguiente.",
+    "another": "Enviar otra solicitud",
+    "consent": "Al enviar este formulario usted acepta que Gold R.R Remodeling le contacte por teléfono, mensaje de texto o correo sobre su solicitud. El consentimiento no es condición de compra. La frecuencia de los mensajes varía. Pueden aplicar tarifas de mensajes y datos. Responda STOP para cancelar o HELP para ayuda. Consulte nuestra Política de privacidad.",
+    "errors": {
+      "name": "Escriba su nombre.",
+      "phone": "Escriba un teléfono con código de área.",
+      "email": "Escriba un correo válido o deje el campo vacío.",
+      "service": "Elija al menos un servicio.",
+      "tooManyPhotos": "Puede adjuntar hasta 5 fotos.",
+      "rate": "Demasiadas solicitudes desde esta conexión. Llame o mande mensaje al (707) 430-8295.",
+      "server": "No se pudo enviar el formulario. Llame o mande mensaje al (707) 430-8295.",
+      "fallback": "El envío en línea todavía no está configurado. Se abrirá su aplicación de correo con la solicitud lista para enviar."
+    }
+  },
+  "servicePage": {
+    "included": "Qué incluye",
+    "timeline": "Tiempos",
+    "faq": "Preguntas sobre {service}",
+    "work": "Nuestro trabajo: {service}",
+    "noPhotosTitle": "Las fotos de este servicio vienen en camino",
+    "noPhotosBody": "Solo mostramos trabajos nuestros. Pídanos ejemplos por mensaje y le mandamos lo que tenemos.",
+    "areas": "Dónde hacemos este trabajo",
+    "areasBody": "{service} en Vallejo y en los condados de Solano, Napa y Sonoma:",
+    "other": "Otros servicios",
+    "textAbout": "Mandar mensaje sobre esto"
+  },
+  "areaPage": {
+    "homes": "Las casas de {city}",
+    "neighborhoods": "Vecindarios a los que vamos",
+    "popular": "Trabajos que van con las casas de {city}",
+    "faq": "Preguntas desde {city}",
+    "nearby": "Ciudades cercanas",
+    "county": "Condado de {county}"
+  },
+  "servicesIndex": {
+    "h1": "Servicios de remodelación en Vallejo, CA",
+    "lead": "Un solo equipo con licencia para todo el trabajo, así el azulejero, el pintor y el carpintero nunca se están esperando unos a otros."
+  },
+  "areasIndex": {
+    "h1": "Zonas de servicio en los condados de Solano, Napa y Sonoma",
+    "lead": "Nuestra base está en Vallejo y vamos a su casa. Elija su ciudad para ver cómo trabajamos ahí."
+  },
+  "galleryPage": {
+    "h1": "Galería de proyectos",
+    "lead": "Baños, azulejo y pisos de Gold R.R Remodeling. Filtre por tipo de trabajo, o por etapa si quiere ver lo que pasa detrás del acabado."
+  },
+  "aboutPage": {
+    "h1": "Sobre Gold R.R Remodeling",
+    "lead": "Un equipo latino de remodelación con base en Vallejo, California.",
+    "storyTitle": "Más que un servicio",
+    "story": [
+      "Gold R.R Remodeling lleva más de 13 años remodelando casas. La mayoría de nuestros trabajos empiezan por baños y azulejo, y de ahí siguen a cocinas, pisos, pintura, drywall y carpintería de acabado.",
+      "Somos un equipo pequeño, y así lo queremos. Las personas que le dan el presupuesto son las mismas que hacen el trabajo, en español o en inglés.",
+      "Nuestro lema es \"Más que un servicio, una experiencia\". En la práctica son tres cosas sencillas: llegamos cuando dijimos, usamos los materiales apropiados para cada proyecto y mantenemos limpia el área de trabajo."
+    ],
+    "valuesTitle": "A lo que nos comprometemos",
+    "values": [
+      { "name": "Los materiales correctos", "text": "Cada proyecto se termina con los materiales apropiados para el trabajo, incluidas las capas que usted ya no verá cuando esté puesto el azulejo." },
+      { "name": "La obra limpia", "text": "Mantener limpia el área de trabajo es una de nuestras prioridades. Protegemos los pisos, cortamos afuera cuando se puede y recogemos todos los días." },
+      { "name": "Puntualidad", "text": "Le decimos cuándo vamos a llegar y llegamos. Si algo cambia, se entera primero por nosotros." },
+      { "name": "Trato personal", "text": "Usted habla con las mismas personas desde la primera llamada hasta el recorrido final." }
+    ],
+    "faith": "Agradecemos cada hogar que nos confían. Dios los bendiga.",
+    "credentialsTitle": "Credenciales",
+    "credentials": {
+      "license": "Licencia de contratista de California #1149164",
+      "google": "4.7 de calificación promedio en Google",
+      "years": "Más de 13 años de experiencia",
+      "languages": "Español e inglés",
+      "owned": "Negocio latino",
+      "friendly": "LGBTQ+ friendly"
+    }
+  },
+  "contactPage": {
+    "h1": "Pida su presupuesto gratis",
+    "lead": "Llame o mande mensaje para una respuesta más rápida, o envíe el formulario con unas fotos.",
+    "direct": "Contáctenos directo",
+    "callSub": "Contestamos desde las 8:00 AM",
+    "textSub": "Mande fotos del espacio",
+    "emailSub": "Para planos y documentos",
+    "areaTitle": "Dónde trabajamos",
+    "areaBody": "Vallejo, Benicia, American Canyon, Fairfield, Suisun City, Vacaville, Napa, Sonoma, Petaluma, Santa Rosa y Rohnert Park."
+  },
+  "notFound": {
+    "h1": "Esta página no está en los planos",
+    "body": "Puede que el enlace sea viejo o que la dirección tenga un error. Todo lo que construimos está a un paso de aquí.",
+    "home": "Ir al inicio"
+  },
+  "legal": {
+    "updated": "Última actualización: {date}"
+  }
+}
