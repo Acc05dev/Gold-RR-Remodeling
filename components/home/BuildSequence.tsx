@@ -58,7 +58,7 @@ export function BuildSequence({ stages, label, of }: { stages: Stage[]; label: s
         start: "center center",
         end: () => `+=${n * window.innerHeight * 0.55}`,
         pin: true,
-        anticipatePin: 1,
+        invalidateOnRefresh: true,
         onUpdate: (self) => {
           show(Math.floor(self.progress * n * 0.999));
           if (rail) rail.style.transform = `scaleY(${self.progress})`;

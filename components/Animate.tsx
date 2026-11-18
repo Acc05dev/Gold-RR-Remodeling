@@ -1,7 +1,7 @@
 "use client";
 
 import { useRef } from "react";
-import { useGsap } from "@/lib/gsap";
+import { requestRefresh, useGsap } from "@/lib/gsap";
 
 /**
  * Scroll choreography shared by every section, driven by data attributes so the markup stays
@@ -32,7 +32,7 @@ export function Animate({
 }) {
   const ref = useRef<HTMLElement>(null);
 
-  useGsap(ref, ({ gsap, ScrollTrigger, SplitText }, { reduced, root }) => {
+  useGsap(ref, ({ gsap, SplitText }, { reduced, root }) => {
     if (reduced) {
       // Calm mode: no movement, no pinning, no scrubbing. Things simply fade in as they arrive.
       root.querySelectorAll<HTMLElement>("[data-split], [data-wipe], [data-stagger] > *, .bar").forEach((el) => {
@@ -140,7 +140,7 @@ export function Animate({
       ),
     );
 
-    ScrollTrigger.refresh();
+    requestRefresh();
     return () => splits.forEach((s) => s.revert());
   });
 

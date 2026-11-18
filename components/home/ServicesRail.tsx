@@ -26,9 +26,10 @@ export function ServicesRail({ children, intro, hint }: { children: React.ReactN
           start: "top top",
           end: () => `+=${distance()}`,
           pin: true,
-          scrub: 0.7,
+          // Lenis already smooths the scroll; a second smoothing layer here made the row lag and
+          // then lurch when the pin released. Track the scroll 1:1 instead.
+          scrub: true,
           invalidateOnRefresh: true,
-          anticipatePin: 1,
         },
       });
       gsap.utils.toArray<HTMLElement>(".scard__face", root).forEach((face) => {

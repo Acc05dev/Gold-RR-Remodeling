@@ -21,6 +21,22 @@ export function loadGsap(): Promise<GsapBundle> {
   return bundle;
 }
 
+let refreshTimer = 0;
+/**
+ * Coalesces refresh requests from many sections into one. Each refresh re-measures every pinned
+ * section; doing it once per section while the reader is scrolling makes the page jump.
+ */
+export function requestRefresh() {
+  if (typeof window === "undefined") return;
+  window.clearTimeout(refreshTimer);
+  refreshTimer = window.setTimeout(() => {
+    loadGsap().then(({ ScrollTrigger }) => {
+      ScrollTrigger.sort();
+      ScrollTrigger.refresh();
+    });
+  }, 120);
+}
+
 /** True when this visit runs in the calm mode (set before first paint by the boot script in the layout). */
 export const prefersReducedMotion = () =>
   typeof document !== "undefined" && document.documentElement.hasAttribute("data-reduced");
